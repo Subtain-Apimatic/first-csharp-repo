@@ -57,7 +57,7 @@ Once the `TestConsoleProject` is created, a file named `Program.cs` will be visi
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -82,19 +82,19 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/controllers/pet.md)
-* [Store](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/controllers/store.md)
-* [User](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/controllers/user.md)
+* [Pet](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/controllers/pet.md)
+* [Store](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/controllers/store.md)
+* [User](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/utility-classes.md)
-* [HttpRequest](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/http-request.md)
-* [HttpResponse](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/http-response.md)
-* [HttpStringResponse](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/http-string-response.md)
-* [HttpContext](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/http-context.md)
-* [HttpClientConfiguration](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/http-client-configuration.md)
-* [HttpClientConfiguration Builder](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/http-client-configuration-builder.md)
-* [IAuthManager](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/i-auth-manager.md)
-* [ApiException](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/3.2.9/doc/api-exception.md)
+* [Utility Classes](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/utility-classes.md)
+* [HttpRequest](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/http-request.md)
+* [HttpResponse](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/http-response.md)
+* [HttpStringResponse](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/http-string-response.md)
+* [HttpContext](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/http-context.md)
+* [HttpClientConfiguration](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/http-client-configuration.md)
+* [HttpClientConfiguration Builder](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/http-client-configuration-builder.md)
+* [IAuthManager](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/i-auth-manager.md)
+* [ApiException](https://www.github.com/Subtain-Apimatic/first-csharp-repo/tree/1.2.3/doc/api-exception.md)
 

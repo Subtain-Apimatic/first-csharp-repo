@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerPetstore.Standard", "SwaggerPetstore.Standard/SwaggerPetstore.Standard.csproj", "{418fc066-250f-400f-8495-ed383889872a}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerPetstore.Standard", "SwaggerPetstore.Standard/SwaggerPetstore.Standard.csproj", "{1ce54777-2ee4-446d-9e30-a4db79d8aac7}"
 EndProject
 Global
     GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -10,10 +10,10 @@ Global
         Release|Any CPU = Release|Any CPU
     EndGlobalSection
     GlobalSection(ProjectConfigurationPlatforms) = postSolution
-        {418fc066-250f-400f-8495-ed383889872a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-        {418fc066-250f-400f-8495-ed383889872a}.Debug|Any CPU.Build.0 = Debug|Any CPU
-        {418fc066-250f-400f-8495-ed383889872a}.Release|Any CPU.ActiveCfg = Release|Any CPU
-        {418fc066-250f-400f-8495-ed383889872a}.Release|Any CPU.Build.0 = Release|Any CPU
+        {1ce54777-2ee4-446d-9e30-a4db79d8aac7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {1ce54777-2ee4-446d-9e30-a4db79d8aac7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {1ce54777-2ee4-446d-9e30-a4db79d8aac7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {1ce54777-2ee4-446d-9e30-a4db79d8aac7}.Release|Any CPU.Build.0 = Release|Any CPU
     EndGlobalSection
     GlobalSection(SolutionProperties) = preSolution
         HideSolutionNode = FALSE
